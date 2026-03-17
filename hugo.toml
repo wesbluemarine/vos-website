@@ -50,10 +50,16 @@ pluralizelisttitles = false
     weight     = 5
 
 [[menu.main]]
+    name       = "Screenshots"
+    identifier = "menu.screenshots"
+    url        = "/screenshots/"
+    weight     = 6
+
+[[menu.main]]
     name       = "Wiki"
     identifier = "menu.wiki"
     url        = "https://vos-wiki.vitruvian.test"
-    weight     = 6
+    weight     = 7
 
 # Top bar social links menu
 
@@ -188,7 +194,7 @@ pluralizelisttitles = false
     title = "Have any questions?"
     title2 = "You can join our groups."
     subtitle = "If you have questions, ideas, or want to contribute, you can join us on GitHub and Telegram."
-    link_url = "/faq/"
+    link_url = "https://vos-wiki.vitruvian.test/docs/getting-started/faq/"
     link_text = "Read FAQs"
 
 
