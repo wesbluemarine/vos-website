@@ -19,11 +19,11 @@ Custom-built kernel modules and real-time patches deliver a responsive, low-late
 
 ## Technical Foundation
 
-Vitruvian boots from XFS or SquashFS filesystems with full extended attribute support. The default kernel ships with real-time patches (`PREEMPT_RT`) for a genuinely responsive desktop; non-RT kernels are also supported. File system indexing and live queries — a hallmark of the BeOS experience — are on the roadmap.
+The reference boot filesystems are **XFS** and **SquashFS**, both with full extended attribute support — XFS for standard desktop installs, SquashFS for live images and embedded targets. Ext4 and most other Linux filesystems with extended attribute support also work. The default kernel ships with real-time patches (`PREEMPT_RT`) for a genuinely responsive desktop; non-RT kernels are also supported. Filesystem indexing and live queries — a hallmark of the BeOS experience — are on the roadmap.
 
 ### Nexus
 
-At the heart of VitruvianOS is **Nexus**, a set of custom Linux kernel modules that bridge Linux with the BeOS/Haiku runtime. Nexus implements the BeOS node monitor API (filesystem event notifications), device and volume tracking, and a messaging bridge that routes kernel events to the BeOS messaging infrastructure in userspace. It is what makes it possible to run unmodified Haiku application source code on Linux.
+At the heart of VitruvianOS is **Nexus**, a set of custom Linux kernel modules that bridge Linux with the BeOS/Haiku runtime. Nexus implements the BeOS node monitor API (filesystem event notifications), device and volume tracking, and a messaging bridge that routes kernel events to the BeOS messaging infrastructure in userspace. It is what makes it possible to run unmodified BeOS/Haiku application source code on Linux.
 
 ## License
 

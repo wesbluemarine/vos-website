@@ -10,7 +10,7 @@ One of the core challenges in building V\OS is bridging two worlds: the Linux ke
 
 ## The Kernel Bridge
 
-Rather than running a BeOS kernel, Vitruvian implements the missing pieces as Linux kernel modules. The `nexus` module brings BeOS-style node monitoring to Linux's `fsnotify` subsystem, translating filesystem events into the `B_NODE_MONITOR` messages that Haiku applications expect. This allows Tracker, the file manager, to watch directories and respond to changes in real time — exactly as it would on native Haiku.
+Rather than running a BeOS kernel, Vitruvian implements the missing pieces as Linux kernel modules. The `nexus` module brings BeOS-style node monitoring to Linux's `fsnotify` subsystem, translating filesystem events into the `B_NODE_MONITOR` messages that BeOS/Haiku applications expect. This allows Tracker, the file manager, to watch directories and respond to changes in real time — exactly as it would on native Haiku.
 
 ## Real-Time by Default
 

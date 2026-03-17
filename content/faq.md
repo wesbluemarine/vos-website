@@ -13,13 +13,13 @@ VitruvianOS (also known as V\OS) is an operating system based on Linux, inspired
 
 Not directly. Vitruvian uses the Linux kernel and implements the BeOS/Haiku API compatibility layer on top of it. It is inspired by both BeOS and Haiku but is an independent project built from the ground up.
 
-## Can I run Haiku applications?
+## Can I run BeOS/Haiku applications?
 
 Yes. V\OS is designed to support BeOS/Haiku application source code with minimal to no changes required.
 
 ## What filesystems are supported?
 
-Vitruvian currently boots from XFS or SquashFS, both with full extended attribute support. File system indexing and live queries are planned for a future release.
+The reference boot filesystems are XFS and SquashFS, both with full extended attribute support. XFS is used for standard desktop installs; SquashFS is used for live images and embedded targets. Vitruvian will also boot from ext4 and most other Linux filesystems with extended attribute support. Filesystem indexing and live queries are planned for a future release.
 
 ## Does it run on my hardware?
 
