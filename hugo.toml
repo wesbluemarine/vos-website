@@ -193,7 +193,7 @@ pluralizelisttitles = false
     icon = "far fa-file-alt"
     title = "Have any questions?"
     title2 = "You can join our groups."
-    subtitle = "If you have questions, ideas, or want to contribute, you can join us on GitHub and Telegram."
+    subtitle = "If you have questions, ideas, or want to contribute, you can join us on [GitHub](https://github.com/VitruvianOS/Vitruvian) and [Telegram](https://t.me/vitruvian_official_chat)."
     link_url = "https://vos-wiki.vitruvian.test/docs/getting-started/faq/"
     link_text = "Read FAQs"
 
