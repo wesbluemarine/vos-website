@@ -19,7 +19,7 @@ Custom-built kernel modules and real-time patches deliver a responsive, low-late
 
 ## Technical Foundation
 
-The reference boot filesystems are **XFS** and **SquashFS**, both with full extended attribute support — XFS for standard desktop installs, SquashFS for live images and embedded targets. Ext4 and most other Linux filesystems with extended attribute support also work. The default kernel ships with real-time patches (`PREEMPT_RT`) for a genuinely responsive desktop; non-RT kernels are also supported. Filesystem indexing and live queries — a hallmark of the BeOS experience — are on the roadmap.
+The reference boot filesystems are **XFS** and **SquashFS**, both with full extended attribute support — XFS for standard desktop installs, SquashFS for live images and embedded targets. Ext4 and most other Linux filesystems with extended attribute support also work. The default kernel ships with real-time patches (`PREEMPT_RT`) for a genuinely responsive desktop; non-RT kernels are also supported. Filesystem indexing, live queries, and multiuser support with graphical login are on the roadmap.
 
 ### Nexus
 

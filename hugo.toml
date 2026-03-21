@@ -186,7 +186,7 @@ pluralizelisttitles = false
     #icon = "far fa-file-alt"
     title = "What is VitruvianOS?"
     subtitle = "V&#92;OS is an operating system based on linux heavily inspired by the BeOS, bringing the elegance and simplicity of a classic operating system to modern days. By leveraging the strengths of Linux while maintaining the user-friendly aspects of BeOS, V&#92;OS offers a unique blend of performance and usability. V&#92;OS leverages the power of linux by integrating ad-hoc built kernel modules and real time patches for a reactive and enjoyable user experience. V&#92;OS supports the BeOS/Haiku runtime on Linux with minimal to no API changes."
-    subtitle2 = "The boot file systems supported are XFS and SquashFS including support for extended attributes. File system indexing and live queries are planned to be released later on. By default the system ships a linux kernel including real time patches while at the same time providing support for non-rt linux kernels."
+    subtitle2 = "The boot file systems supported are XFS and SquashFS including support for extended attributes. File system indexing, live queries, and multiuser support with graphical login are planned to be released in upcoming versions. By default the system ships a linux kernel including real time patches while at the same time providing support for non-rt linux kernels."
 
 [params.see_more]
     enable = true
