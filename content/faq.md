@@ -2,12 +2,12 @@
 title = "FAQ"
 description = "Frequently asked questions about VitruvianOS"
 type = "page"
-keywords = ["FAQ", "questions", "VitruvianOS"]
+keywords = ["FAQ", "questions", "Vitruvian"]
 +++
 
 ## What is VitruvianOS?
 
-VitruvianOS (also known as V\OS) is an operating system based on Linux, inspired by BeOS. It brings the BeOS/Haiku API and desktop philosophy to modern hardware, running on a real-time patched Linux kernel.
+Vitruvian is an operating system based on Linux, inspired by BeOS. It brings the BeOS/Haiku API and desktop philosophy to modern hardware, running on a real-time patched Linux kernel.
 
 ## Is it based on Haiku?
 
@@ -33,9 +33,9 @@ Nightly builds are available on the [Download](/download/) page. You can also bu
 
 Check the [GitHub repository](https://github.com/VitruvianOS/Vitruvian) for contribution guidelines and open issues, and join the discussion on [Telegram](https://t.me/vitruvian_official_chat).
 
-## Is VitruvianOS free?
+## Is Vitruvian free?
 
-Yes. VitruvianOS is released under a hybrid GPL/MIT license and is completely free of cost.
+Yes. Vitruvian is released under a hybrid GPL/MIT license and is completely free of cost.
 
 ---
 

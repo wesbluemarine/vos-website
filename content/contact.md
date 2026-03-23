@@ -6,7 +6,7 @@ type = "page"
 
 ## Get in Touch
 
-The best way to reach the VitruvianOS team is through our community channels.
+The best way to reach the Vitruvian team is through our community channels.
 
 - **GitHub Issues**: [github.com/VitruvianOS/Vitruvian/issues](https://github.com/VitruvianOS/Vitruvian/issues) — bug reports, feature requests, questions
 - **Telegram Chat**: [t.me/vitruvian\_official\_chat](https://t.me/vitruvian_official_chat) — general discussion and support

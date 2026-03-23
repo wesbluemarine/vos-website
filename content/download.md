@@ -3,17 +3,15 @@ title = "Download"
 type = "page"
 +++
 
-## Download VitruvianOS
+## Download Vitruvian
 
-VitruvianOS is currently in active development. Pre-built nightly images are generated automatically from the latest source.
+VitruvianOS is currently in active development. We will be providing pre-built images generated automatically from the latest source soon.
 
-### Nightly Builds
+### 0.3.0
 
-Nightly images are the fastest way to follow current progress. They are built automatically on every significant commit and available via GitHub Actions.
+0.3.0 pilot release iso can be downloaded from the following link:
 
-[Download from GitHub Actions](https://github.com/VitruvianOS/Vitruvian/actions)
-
-> **Note:** Nightly builds are for testing and development. Expect rough edges.
+[https://github.com/VitruvianOS/Vitruvian/releases/tag/0.3.0]
 
 ### Build from Source
 
@@ -28,8 +26,8 @@ See the [How To Install](https://wiki.v-os.dev/docs/getting-started/how-to-insta
 ### System Requirements
 
 - x86-64 processor (ARM and RISC-V support in progress)
-- 2 GB RAM minimum (4 GB recommended)
-- 10 GB disk space
+- 1 GB RAM minimum (4 GB recommended)
+- 1 GB disk space
 
 ### Getting Help
 
