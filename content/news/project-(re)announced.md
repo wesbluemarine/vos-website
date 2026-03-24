@@ -4,7 +4,7 @@ date = "2025-01-15T00:00:00+00:00"
 categories = ["announcement"]
 tags = ["news"]
 authors = ["VitruvianOS Team"]
-banner = "/img/vitruvianos-profile.svg"
+banner = "img/vitruvianos-profile.png"
 +++
 
 **Vitruvian** — an operating system built on Linux that brings the elegance and simplicity of BeOS to modern hardware.
